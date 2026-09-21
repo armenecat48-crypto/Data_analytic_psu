@@ -9,7 +9,7 @@ Learning loop:
 
 > **Predict → Ask AI → Inspect → Run → Explain → Verify → Decide**
 
----
+----
 
 # ขั้นตอนการทดลอง
 

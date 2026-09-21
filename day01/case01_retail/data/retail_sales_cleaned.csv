@@ -1,4 +1,4 @@
-﻿Date,Region,Branch,Product,Category,Customer_Segment,Quantity,Discount,Sales,Cost,Profit
+﻿date,Region,Branch,Product,Category,Customer_Segment,Quantity,Discount,Sales,Cost,Profit
 2026-05-18,North,B12,P-D,Food,VIP,7,0.006,2781.8,1902.95,878.85
 2026-05-31,Central,B12,P-A,Home,New,7,0.101,5036.0,3473.3,1562.71
 2026-05-16,North,B07,P-E,Sports,New,6,0.029,6029.29,3788.71,2240.58

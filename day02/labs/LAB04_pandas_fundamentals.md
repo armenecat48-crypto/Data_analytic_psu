@@ -1,6 +1,6 @@
 # LAB 04 — Pandas Fundamentals: จาก Spreadsheet สู่ Reproducible Analysis
 **Day 2 | ANALYZE & INTERPRET**  
-**เวลา:** 55 นาที | **รูปแบบ:** Individual | **เครื่องมือ:** GitHub Codespaces, VS Code, Python/Pandas
+**เวลา:** 55 นาที | **รูปแบบ:** Individual  | **เครื่องมือ:** GitHub Codespaces, VS Code, Python/Pandas
 
 ## เป้าหมายของ Lab
 ให้ผู้เรียนสามารถเปิด Dataset, ตรวจโครงสร้าง และสรุปข้อมูลด้วย Pandas โดยเข้าใจว่าแต่ละคำสั่งช่วยตอบ Business Question อย่างไร
@@ -50,8 +50,7 @@ day02/starter/analysis_starter.py
 
 Run:
 
-```bash
-python day02/starter/analysis_starter.py
+`python day02/starter/analysis_starter.py
 ```
 
 ### ควรเห็น
